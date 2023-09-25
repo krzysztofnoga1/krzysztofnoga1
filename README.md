@@ -1,12 +1,15 @@
-
 <h1 align="left">Hello to my GitHub proflie👋</h1>
 
+###
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1&multiline=true&width=800&height=100&lines=Hello%2C+my+name+is+Krzysztof+and+I'm+a+fourth-year+student;at+the+Lodz+University+of+Technology.+I'm+passionate+about;software+development+in+various+aspects.)](https://git.io/typing-svg)
 
-<h1 align="left">My skills 🛠️</h1>
+###
 
-  
+<h2 align="left">My skills 🛠️</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -37,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12 />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
