@@ -2,7 +2,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1&multiline=true&width=800&height=100&lines=Hello%2C+my+name+is+Krzysztof+and+I'm+a+fourth-year+student;at+the+Lodz+University+of+Technology.+I'm+passionate+about;software+development+in+various+aspects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1&multiline=true&width=800&height=100&lines=Hello%2C+my+name+is+Krzysztof+and+I'm+a+fifth-year+student;at+the+Lodz+University+of+Technology.+I'm+passionate+about;software+development+in+various+aspects.)](https://git.io/typing-svg)
 
 ###
 
